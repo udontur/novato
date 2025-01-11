@@ -1,47 +1,50 @@
 ---
 sidebar_position: 1
 ---
+# Goals
+1. Define the concept
+2. Explain what is it
+3. Explain why
+4. Explain how it works
+5. MANY EXAMPLES
 
-# Tutorial Intro
+Novato is mesophile (human pathogens)
+Novato is gram-posititive (antibiotic)
+Most human pathogens thrive in water
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Pick up:
+- Bacterial cell resistant and how to kill
+- https://www.britannica.com/science/bacteria/Evolution-of-bacteria
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC10056106/#B20-ijms-24-05777
+- https://www.perplexity.ai/search/how-does-the-technology-of-mic-cDfKfwh5TJqzeL2YcKf2Ig
+- https://www.perplexity.ai/search/what-is-antibiotic-binding-in-Q4UjKFYJQc.PO_0ghRva5w
+- https://crestonepharma.com/why-are-gram-negative-bacteria-harder-to-kill-with-antibiotics/
+- 
 
-## Getting Started
+Antibiotic binding refers to the interaction between antibiotics and specific bacterial targets, which is crucial for their mechanism of action in treating bacterial infections. Understanding this binding process helps in developing effective treatments and combating antibiotic resistance.
+Mechanisms of Antibiotic Binding
 
-Get started by **creating a new site**.
+    Binding to Ribosomes: Many antibiotics, such as aminoglycosides and lincosamides, bind to bacterial ribosomes, inhibiting protein synthesis. For instance, aminoglycosides bind to the 30S ribosomal subunit, causing misreading of mRNA and ultimately preventing proper protein synthesis4
+    6
+    . Cresomycin, a synthetic antibiotic, has been designed to tightly bind to ribosomes, effectively overcoming some existing resistance mechanisms5
+    .
+    Inhibition of Cell Wall Synthesis: Antibiotics like β-lactams (e.g., penicillin) and glycopeptides (e.g., vancomycin) target the bacterial cell wall. β-lactams bind to penicillin-binding proteins (PBPs), leading to the formation of a stable acyl-enzyme complex that inhibits peptidoglycan synthesis, essential for cell wall integrity1
+    2
+    . Glycopeptides inhibit cell wall synthesis by binding to lipid II, a key precursor in peptidoglycan biosynthesis1
+    .
+    Targeting DNA and RNA Synthesis: Some antibiotics bind to enzymes involved in DNA replication or transcription. For example, rifampicin binds to bacterial RNA polymerase, inhibiting RNA synthesis by altering the enzyme's affinity for its substrate7
+    9
+    . This binding can lead to significant changes in bacterial physiology and ultimately cell death.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Importance in Treatment
+Antibiotic binding is critical for the effectiveness of these drugs. The affinity of an antibiotic for its target can determine its efficacy; higher binding affinity often correlates with greater antibacterial activity. However, bacteria can develop resistance through various mechanisms that alter or reduce the binding efficiency of antibiotics. These include:
 
-### What you'll need
+    Mutations in Target Sites: Changes in the structure of target proteins or ribosomal RNA can reduce antibiotic binding6
+    .
+    Efflux Pumps: Some bacteria develop pumps that expel antibiotics from their cells, decreasing their intracellular concentration and effectiveness2
+    .
+    Altered Membrane Permeability: Modifications in the bacterial membrane can prevent antibiotics from entering the cell2
+    .
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Conclusion
+Antibiotic binding is a fundamental aspect of how these drugs function against bacterial infections. Understanding the specific interactions between antibiotics and their targets not only aids in developing new therapeutic agents but also highlights the challenges posed by antibiotic resistance. Ongoing research focuses on enhancing binding properties and overcoming resistance mechanisms to improve treatment outcomes for bacterial infections.
