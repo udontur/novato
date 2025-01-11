@@ -77,13 +77,7 @@ const config = {
         },
         hideOnScroll: true,
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/research', label: 'Our Research', position: 'left'},
           {
             href: 'https://github.com/udontur/novato',
             label: 'GitHub',
