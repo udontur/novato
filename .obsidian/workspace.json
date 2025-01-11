@@ -177,6 +177,7 @@
   },
   "active": "4224fc280851bc88",
   "lastOpenFiles": [
+    "docs/research.md",
     "LICENSE",
     "docs/bacteria/1-overview.mdx",
     "docs/bacteria/2-bacteria-structure.mdx",
@@ -194,7 +195,6 @@
     "docs/strategy/1-why.mdx",
     "docs/bacteria/overview.md",
     "docs/bacteria/gram-positive-vs-gram-negative.md",
-    "docs/bacteria/condition.mdx",
     "docs/bacteria/bacteria-structure.md",
     "docs/intro.md",
     "eng2d-cul.md",
