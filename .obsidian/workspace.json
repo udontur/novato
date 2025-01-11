@@ -11,10 +11,14 @@
             "id": "4224fc280851bc88",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/bacteria/2-bacteria-structure.mdx",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2-bacteria-structure"
             }
           }
         ]
@@ -134,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "docs/bacteria/2-bacteria-structure.mdx"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2-bacteria-structure"
             }
           },
           {
@@ -165,19 +171,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "4224fc280851bc88",
   "lastOpenFiles": [
+    "Pasted image 20250111202705.png",
+    "docs/bacteria/6-spread.mdx",
+    "docs/bacteria/5-effect.mdx",
+    "docs/bacteria/4-gram-positive-vs-gram-negative.mdx",
+    "docs/bacteria/3-condition.mdx",
     "docs/bacteria/2-bacteria-structure.mdx",
     "docs/microscope/Untitled.md",
     "docs/bacteria/1-overview.mdx",
     "docs/microscope/1-what.mdx",
     "docs/strategy/1-why.mdx",
-    "docs/bacteria/5-effect.mdx",
-    "docs/bacteria/4-gram-positive-vs-gram-negative.mdx",
-    "docs/bacteria/3-condition.mdx",
     "docs/bacteria/overview.md",
     "docs/bacteria/gram-positive-vs-gram-negative.md",
     "docs/bacteria/condition.mdx",
@@ -207,7 +216,6 @@
     "Draw/20241005115434.excalidraw.md",
     "Archive/BEP2O.md",
     "Notes/Macbeth.md",
-    "Notes",
     "Image/Pasted image 20241201102854.png",
     "Image/Pasted image 20241129154605.png",
     "Image/Pasted image 20241129154850.png",
