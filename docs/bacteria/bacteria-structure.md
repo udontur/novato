@@ -1,0 +1,47 @@
+---
+sidebar_position: 2
+---
+# Bacteria Structure
+
+#### Bacteria Structure
+- ![[Pasted image 20250107132530.png]]
+- Flagellum
+	- The "tail" that propells the bacteria forward
+	- A little motor is attached
+- Pilus
+	- Act like spider legs
+	- Used to attach the bacteria to specific surfaces or cells
+- Plasmid
+	- Double-stranded circular DNA molecules (NOT a regular chromosome)
+	- Carry genes for
+		- Copying chromosome
+		- Create antibiotic resistance
+- Cytoplasm
+	- Gel-like structure
+	- The area for metabolism and replication
+- DNA (Nucleoid)
+	- Double-stranded DNA molecules
+	- Genetic material for building the bacteria
+- Cell wall
+	- Made with peptidoglycan
+	- Key: Gram-Positive vs Gram-Negative
+- Ribosomes
+	- Protein synthesis
+		- A process that makes protein using generic materials
+- Capsule
+	- Made of polysaccharides
+	- Thick external layer that envelopes the cell wall 
+	- Protective barrier
+		- Evading immune system
+		- No toxic compounds
+- Cell membrane (Plasma membrane)
+	- regualte substamce movment in and out of the cell
+		- Waste excretion
+		- Respiration + photosynthesis
+		- Nutrient acquisition
+- Bacterias are prokaryotic cells -> Genetic material is not enclosed within a nuclear membrane. 
+- Prokaryotic type
+	- Archaea (no peptidoglycan in cell wall)
+	- Bacteria
+- Citations: [Byjus](https://byjus.com/biology/bacteria/)
+- Citations: [Britannica](https://www.britannica.com/science/bacteria/Physical-requirements)

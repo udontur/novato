@@ -1,0 +1,40 @@
+---
+sidebar_position: 3
+---
+# Optimal conditions for bacterial growth
+- Extremophoile
+	- Organism that tolerates extreme environments
+	- Evolved to grow optimally in extreme conditions
+	- "-philes" = "-loves something"
+- Optimal temperature
+	- Psychrophiles: $<15^\circ\ce{C}$
+		- Average temperature of soil in the temperate zone is $12^\circ\ce{C}$
+		- Minimal growth at $<0^\circ\ce{C}$
+		- Obligate psychrophiles (isolated from arctic)
+			- Optimum: $10^\circ\ce{C}$
+			- Die: $20^\circ\ce{C}$
+		- Most psychropiles bacteria are gram-negative
+	- Mesophilies
+		- Optimal: $33^\circ\ce{C} - 37^\circ\ce{C}$
+		- Optimal pH: $6.8-7.2$ 
+		- Best Growth: $20^\circ\ce{C}-45^\circ\ce{C}$
+		- Survivable: $10^\circ\ce{C}-50^\circ\ce{C}$
+		- Animal pathogens (including human)
+	- Thermophilies
+		- Optimum: $60^\circ\ce{C}$
+		- Rotting compost piles, hot springs, oceanic geothermal vents
+		- Extreme case
+			- Thermus aquaticus: $70^\circ\ce{C}$
+	- Hyperthermophilies
+		- Above $>80^\circ\ce{C}$
+	- Extreme hyperthermophilies
+- Optimal pH
+	- Acidophilies
+		- Loves acidic conditions
+		- $\ce{pH 1} - \ce{pH 5}$
+	- Alkaliphilies
+		- Loves alkali conditions
+		- $\ce{pH 9}$
+	- https://www.britannica.com/science/bacteria/Physical-requirements
+	- The archaeon sulfolobus acidocaldarius has a high tolerance for acidic conditions: 1.0 to 6.0 and temperature of 8C
+- Citations: [Britannica](https://www.britannica.com/science/bacteria/Physical-requirements)
