@@ -12,7 +12,7 @@ Feel free to press the “Sun” icon on the top right corner of the website to 
 ### Info
 This website is open sourced at [GitHub](https://github.com/udontur/novato), which means the entire source code of this website is available publicly.
 
-:::tips
+:::tip
 If you are a **DSC student doing the same assignment**, I personally **do not recommend** copying the source code. 
 :::
 
