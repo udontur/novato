@@ -93,7 +93,7 @@ export default {
                         type: 'docSidebar',
                         sidebarId: 'tutorialSidebar',
                         position: 'left',
-                        label: 'Tutorial',
+                        label: 'Research',
                     },
                     {
                         href: 'https://github.com/udontur/novato',
@@ -109,8 +109,8 @@ export default {
                         title: 'All Pages',
                         items: [
                             {
-                                label: 'Tutorial',
-                                to: '/docs/intro',
+                                label: 'Research',
+                                to: '/docs/research',
                             },
                         ],
                     },
