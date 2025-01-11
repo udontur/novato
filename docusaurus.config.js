@@ -70,11 +70,12 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Project Novato',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Project Novato logo',
           src: 'img/logo.svg',
         },
+        hideOnScroll: true,
         items: [
           {
             type: 'docSidebar',
