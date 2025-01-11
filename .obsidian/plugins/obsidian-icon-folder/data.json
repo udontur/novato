@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiFlaskRound",
+      "👨‍🔬",
+      "LiNotepadText",
+      "LiBookA",
+      "🖋"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "README.md": "LiFileSpreadsheet",
+  "Archive": "LiBadgeX",
+  "Archive/BEP2O.md": "LiBriefcaseBusiness",
+  "Archive/Gatsby.md": "LiBookA",
+  "Archive/SNCMC.md": "LiGlassWater",
+  "Draw": "LiPaintbrush",
+  "Image": "LiImages",
+  "Notes": "LiNotepadText",
+  "Notes/SNC2D.md": "LiAtom",
+  "snc2d-cul.md": "LiFlaskRound",
+  "eng2d-cul.md": "LiBookA"
+}

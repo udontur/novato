@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "89cd49159ffb90e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e83115abbf6a9787",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4224fc280851bc88",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34296dfbf5ff50fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c23d855c365b9a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed19e4854f57c54c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "68a8dc5dc3344572",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "95ddb177c7cf0cc6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a10281f68e2d7786",
+    "type": "split",
+    "children": [
+      {
+        "id": "75535b66862225a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fd99e36e3d92723",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "snc2d.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for snc2d"
+            }
+          },
+          {
+            "id": "57d1a8d74c66318b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "snc2d.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from snc2d"
+            }
+          },
+          {
+            "id": "0a2ee1311225579b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0b0170e8755e5421",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "snc2d-cul.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of snc2d-cul"
+            }
+          },
+          {
+            "id": "ca425a6cec2346d0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4224fc280851bc88",
+  "lastOpenFiles": [
+    "eng2d-cul.md",
+    "snc2d-cul.md",
+    "().md",
+    "Untitled.md",
+    "README.md",
+    "Image/Pasted image 20250107132530.png",
+    "Archive/Gatsby.md",
+    "Notes/SNC2D.md",
+    "Archive/SNCMC.md",
+    "Draw/20241210183230.excalidraw.md",
+    "Pasted image 20241212215239.png",
+    "Pasted image 20241212220631.png",
+    "Archieve/SNCMC.md",
+    "Archieve",
+    "Draw/snc2d-.md",
+    "Draw/snc2d-animalcell.md",
+    "Draw/snc2d-lewis.md",
+    "Draw/snc2d-plantcell.md",
+    "Draw/20241113201428.excalidraw.md",
+    "Draw/20241113200759.excalidraw.md",
+    "Draw/20241021165018.excalidraw.md",
+    "Draw/20241005115434.excalidraw.md",
+    "Archive/BEP2O.md",
+    "Notes/Macbeth.md",
+    "Notes",
+    "Image/Pasted image 20241201102854.png",
+    "20241201101346.excalidraw.md",
+    "Image/Pasted image 20241129154605.png",
+    "Image/Pasted image 20241129154850.png",
+    "Image/Pasted image 20241129105446.png",
+    "Draw/20241124113114.excalidraw.md",
+    "Draw/20241123144928.excalidraw.md",
+    "Image/Group 15.png",
+    "LICENSE",
+    "Image/snc2d-visiblelight.png",
+    "Image/snc2d-nerve.png",
+    "Archive",
+    "Draw/20241123223654.excalidraw.md",
+    "Draw/20241123213539.excalidraw.md",
+    "Image"
+  ]
+}
