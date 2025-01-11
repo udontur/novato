@@ -70,14 +70,19 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Project Novato',
+        title: 'My Site',
         logo: {
-          alt: 'Project Novato logo',
+          alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
-        hideOnScroll: true,
         items: [
-          {to: '/research', label: 'Research', position: 'left'},
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Tutorial',
+          },
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/udontur/novato',
             label: 'GitHub',
@@ -92,7 +97,7 @@ const config = {
             title: 'All Pages',
             items: [
               {
-                label: 'Research',
+                label: 'Tutorial',
                 to: '/docs/intro',
               },
             ],
