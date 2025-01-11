@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/bacteria/2-bacteria-structure.mdx",
+                "file": "docs/research.mdx",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-bacteria-structure"
+              "title": "research"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/bacteria/2-bacteria-structure.mdx"
+                "file": "docs/research.mdx"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2-bacteria-structure"
+              "title": "Outline of research"
             }
           },
           {
@@ -180,10 +180,11 @@
     "docs/intro.mdx",
     "docs/citations.mdx",
     "docs/research.mdx",
+    "README.md",
+    "docs/bacteria/2-bacteria-structure.mdx",
     "docs/research.md",
     "LICENSE",
     "docs/bacteria/1-overview.mdx",
-    "docs/bacteria/2-bacteria-structure.mdx",
     "docs/bacteria/img/bacteria-diagram.png",
     "docs/bacteria/img/bacteria-diagram.png.png",
     "docs/bacteria/img/bacteria-diagram.png.md",
@@ -192,7 +193,6 @@
     "docs/bacteria/6-spread.mdx",
     "docs/bacteria/5-effect.mdx",
     "docs/bacteria/4-gram-positive-vs-gram-negative.mdx",
-    "docs/bacteria/3-condition.mdx",
     "docs/microscope/Untitled.md",
     "docs/bacteria/overview.md",
     "docs/bacteria/gram-positive-vs-gram-negative.md",
@@ -202,7 +202,6 @@
     "snc2d-cul.md",
     "().md",
     "Untitled.md",
-    "README.md",
     "Image/Pasted image 20250107132530.png",
     "Archive/Gatsby.md",
     "Notes/SNC2D.md",
