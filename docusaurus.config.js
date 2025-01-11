@@ -14,7 +14,7 @@ import rehypeKatex from 'rehype-katex';
 export default {
     title: 'Project Novato',
     tagline: 'Shield Humanity. Delete Novato.',
-    favicon: 'img/favicon.ico',
+    favicon: 'img/logo.svg',
 
     // Set the production url of your site here
     url: 'https://novato.hadrianlau.com',
