@@ -77,7 +77,7 @@ const config = {
         },
         hideOnScroll: true,
         items: [
-          {to: '/research', label: 'Our Research', position: 'left'},
+          {to: '/research', label: 'Research', position: 'left'},
           {
             href: 'https://github.com/udontur/novato',
             label: 'GitHub',
@@ -92,7 +92,7 @@ const config = {
             title: 'All Pages',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Research',
                 to: '/docs/intro',
               },
             ],
