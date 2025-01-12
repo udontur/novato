@@ -105,9 +105,15 @@ export default {
                         position: 'left',
                     },
                     {
-                        href: 'https://github.com/udontur/novato',
-                        label: 'GitHub',
+                        href: 'https://hadrianlau.com',
+                        label: 'Hadrian',
                         position: 'right',
+                    },
+                    {
+                        href: 'https://github.com/udontur/novato',
+                        position: 'right',
+                        className: 'header-github-link',
+                        "aria-label": "GitHub repository",
                     },
                 ],
             },
