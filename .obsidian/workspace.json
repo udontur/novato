@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/bacteria/2-bacteria-structure.mdx",
+                "file": "docs/bacteria/3-condition.mdx",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-bacteria-structure"
+              "title": "3-condition"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/bacteria/2-bacteria-structure.mdx"
+                "file": "docs/bacteria/3-condition.mdx"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2-bacteria-structure"
+              "title": "Outline of 3-condition"
             }
           },
           {
@@ -177,22 +177,29 @@
   },
   "active": "caf916749239f902",
   "lastOpenFiles": [
-    "docs/bacteria/1-overview.mdx",
-    "docs/bacteria/7-spread.mdx",
-    "docs/bacteria/6-binary-fission.mdx",
-    "docs/bacteria/3-condition.mdx",
-    "docs/eradication/5-environment-impact.mdx",
-    "docs/eradication/4-kill-in-water.mdx",
-    "docs/eradication/3-how-drugs-work.mdx",
-    "docs/bacteria/5-effect.mdx",
+    "build/sitemap.xml",
+    "build/index.html",
+    "build/404.html",
+    "build/category/strategies/index.html",
+    "build/category/microscope/index.html",
+    "build/category/eradication/index.html",
+    "build/category/bacteria/index.html",
+    "build/category/strategies",
+    "build/category/microscope",
+    "build/category/eradication",
+    "build/category/bacteria",
+    "build/assets/images/bacteria-real-8d82384ad4d374d647ae6babfacbc53f.png",
+    "build/assets/images/bacteria-diagram-7b618ab86bc8cbf4146251b4b92519ae.png",
+    "build/img/undraw_docusaurus_tree.svg",
+    "build/img/undraw_docusaurus_react.svg",
+    "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/logo.svg",
+    "build/img/docusaurus.png",
+    "build/img/docusaurus-social-card.jpg",
     "docs/bacteria/img/bacteria-real.png",
-    "docs/bacteria/2-bacteria-structure.mdx",
-    "docs/research.mdx",
-    "docs/intro.mdx",
     "README.md",
     "docs/research.md",
     "docs/bacteria/img/bacteria-diagram.png",
-    "docs/bacteria/img/bacteria-diagram.png.png",
     "docs/bacteria/img/bacteria-diagram.png.md",
     "Pasted image 20250111202705.png.md",
     "docs/microscope/Untitled.md",
@@ -204,13 +211,10 @@
     "snc2d-cul.md",
     "().md",
     "Untitled.md",
-    "Image/Pasted image 20250107132530.png",
     "Archive/Gatsby.md",
     "Notes/SNC2D.md",
     "Archive/SNCMC.md",
     "Draw/20241210183230.excalidraw.md",
-    "Pasted image 20241212215239.png",
-    "Pasted image 20241212220631.png",
     "Archieve/SNCMC.md",
     "Draw/snc2d-.md",
     "Draw/snc2d-animalcell.md",
@@ -218,10 +222,6 @@
     "Draw/snc2d-plantcell.md",
     "Draw/20241113201428.excalidraw.md",
     "Draw/20241113200759.excalidraw.md",
-    "Draw/20241021165018.excalidraw.md",
-    "Image/Pasted image 20241201102854.png",
-    "Image/Pasted image 20241129154605.png",
-    "Image/Pasted image 20241129154850.png",
-    "Image/Pasted image 20241129105446.png"
+    "Draw/20241021165018.excalidraw.md"
   ]
 }

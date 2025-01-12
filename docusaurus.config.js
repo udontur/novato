@@ -48,19 +48,9 @@ export default {
                     // Please change this to your repo.
                     remarkPlugins: [remarkMath],
                     rehypePlugins: [rehypeKatex],
+                    routeBasePath: '/', // Set this value to '/'.
                 },
-                blog: {
-                    showReadingTime: true,
-                    feedOptions: {
-                        type: ['rss', 'atom'],
-                        xslt: true,
-                    },
-                    // Please change this to your repo.
-                    // Useful options to enforce blogging best practices
-                    onInlineTags: 'warn',
-                    onInlineAuthors: 'warn',
-                    onUntruncatedBlogPosts: 'warn',
-                },
+                blog: false,
                 theme: {
                     customCss: './src/css/custom.css',
                 },
@@ -90,10 +80,29 @@ export default {
                 },
                 items: [
                     {
-                        type: 'docSidebar',
-                        sidebarId: 'tutorialSidebar',
+                        label: 'Bacteria',
+                        to: '/category/bacteria',
                         position: 'left',
-                        label: 'Research',
+                    },
+                    {
+                        label: 'Eradication',
+                        to: '/category/eradication',
+                        position: 'left',
+                    },
+                    {
+                        label: 'Microscope',
+                        to: '/category/microscope',
+                        position: 'left',
+                    },
+                    {
+                        label: 'Strategies',
+                        to: '/category/strategies',
+                        position: 'left',
+                    },
+                    {
+                        label: 'Citations',
+                        to: '/citations',
+                        position: 'left',
                     },
                     {
                         href: 'https://github.com/udontur/novato',
@@ -106,11 +115,31 @@ export default {
                 style: 'dark',
                 links: [
                     {
-                        title: 'All Pages',
+                        title: 'Web Pages',
                         items: [
                             {
-                                label: 'Research',
-                                to: '/docs/research',
+                                label: 'Home Page',
+                                to: '/',
+                            },
+                            {
+                                label: 'Bacteria',
+                                to: '/category/bacteria',
+                            },
+                            {
+                                label: 'Eradication',
+                                to: '/category/eradication',
+                            },
+                            {
+                                label: 'Microscope',
+                                to: '/category/microscope',
+                            },
+                            {
+                                label: 'Strategies',
+                                to: '/category/strategies',
+                            },
+                            {
+                                label: 'Citations',
+                                to: '/citations',
                             },
                         ],
                     },
@@ -118,8 +147,12 @@ export default {
                         title: 'Links',
                         items: [
                             {
-                                label: 'Website Source Code',
+                                label: 'Source Code',
                                 href: 'https://github.com/udontur/novato',
+                            },
+                            {
+                                label: 'Deployment',
+                                href: 'https://vercel.com/udonturs-projects/novato/deployments',
                             },
                             {
                                 label: 'Assignment',
@@ -127,8 +160,25 @@ export default {
                             },
                         ],
                     },
+                    {
+                        title: 'Socials',
+                        items: [
+                            {
+                                label: 'Website',
+                                href: 'https://hadrianlau.com',
+                            },
+                            {
+                                label: 'GitHub',
+                                href: 'https://github.com/udontur',
+                            },
+                            {
+                                label: 'Email',
+                                href: 'mailto:102845@dsc.edu.hk',
+                            },
+                        ],
+                    }
                 ],
-                copyright: `CopyIDontCare © ${new Date().getFullYear()} Hadrian Lau.`,
+                copyright: `CopyIDontCare © ${new Date().getFullYear()} Hadrian Lau`,
             },
             prism: {
                 theme: prismThemes.github,
