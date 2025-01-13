@@ -7,6 +7,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
+import { inject } from "@vercel/analytics"
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
@@ -68,13 +69,13 @@ export default {
     ],
     plugins: [
         [
-          'vercel-analytics',
-          {
-            debug: true,
-            mode: 'auto',
-          },
+            'vercel-analytics',
+            {
+                debug: true,
+                mode: 'auto',
+            },
         ],
-      ],
+    ],
     themeConfig:
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
