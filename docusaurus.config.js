@@ -66,6 +66,15 @@ export default {
             crossorigin: 'anonymous',
         },
     ],
+    plugins: [
+        [
+          'vercel-analytics',
+          {
+            debug: true,
+            mode: 'auto',
+          },
+        ],
+      ],
     themeConfig:
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
