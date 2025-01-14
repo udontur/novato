@@ -7,7 +7,6 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
-import { Analytics } from '@vercel/analytics/react';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
@@ -16,29 +15,17 @@ export default {
     title: 'Project Novato',
     tagline: 'Shield Humanity. Delete Novato.',
     favicon: 'img/logo.svg',
-
-    // Set the production url of your site here
     url: 'https://novato.hadrianlau.com',
-    // Set the /<baseUrl>/ pathname under which your site is served
-    // For GitHub pages deployment, it is often '/<projectName>/'
     baseUrl: '/',
-
-    // GitHub pages deployment config.
-    // If you aren't using GitHub pages, you don't need these.
-    organizationName: 'udontur', // Usually your GitHub org/user name.
-    projectName: 'novato', // Usually your repo name.
+    organizationName: 'udontur',
+    projectName: 'novato',
 
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
-
-    // Even if you don't use internationalization, you can use this field to set
-    // useful metadata like html lang. For example, if your site is Chinese, you
-    // may want to replace "en" with "zh-Hans".
     i18n: {
         defaultLocale: 'en',
         locales: ['en'],
     },
-
     presets: [
         [
             'classic',
@@ -46,10 +33,9 @@ export default {
             ({
                 docs: {
                     sidebarPath: './sidebars.js',
-                    // Please change this to your repo.
                     remarkPlugins: [remarkMath],
                     rehypePlugins: [rehypeKatex],
-                    routeBasePath: '/', // Set this value to '/'.
+                    routeBasePath: '/',
                 },
                 blog: false,
                 theme: {
@@ -62,8 +48,7 @@ export default {
         {
             href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
             type: 'text/css',
-            integrity:
-                'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
+            integrity: 'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
             crossorigin: 'anonymous',
         },
     ],
@@ -79,8 +64,7 @@ export default {
     themeConfig:
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
-            // Replace with your project's social card
-            image: 'img/docusaurus-social-card.jpg',
+            image: 'img/logo.svg',
             navbar: {
                 title: 'Project Novato',
                 hideOnScroll: true,
@@ -202,5 +186,3 @@ export default {
             },
         }),
 };
-
-
