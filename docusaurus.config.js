@@ -13,7 +13,7 @@ import rehypeKatex from 'rehype-katex';
 
 export default {
     title: 'Project Novato',
-    tagline: 'Shield Humanity. Delete Novato.',
+    tagline: 'Hadrian\'s SNC2D culminating assignment.',
     favicon: 'img/logo.svg',
     url: 'https://novato.hadrianlau.com',
     baseUrl: '/',
@@ -153,6 +153,10 @@ export default {
                             {
                                 label: 'Deployment',
                                 href: 'https://vercel.com/udonturs-projects/novato/deployments',
+                            },
+                            {
+                                label: 'License',
+                                href: 'https://github.com/udontur/novato/blob/main/LICENSE',
                             },
                             {
                                 label: 'Assignment',
