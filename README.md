@@ -1,4 +1,5 @@
 # Novato
+
 Website built using [Docusaurus](https://docusaurus.io/), hosted on [Vercel](https://vercel.com/) and [GitHub](https://github.com/).
 
 ## Links
