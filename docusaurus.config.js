@@ -14,7 +14,7 @@ import rehypeKatex from 'rehype-katex';
 export default {
     title: 'Project Novato',
     tagline: 'Hadrian\'s SNC2D culminating assignment.',
-    favicon: 'img/logo.svg',
+    favicon: '/assets/img/logo.svg',
     url: 'https://novato.hadrianlau.com',
     baseUrl: '/',
     organizationName: 'udontur',
@@ -64,13 +64,13 @@ export default {
     themeConfig:
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
-            image: 'img/logo.svg',
+            image: '/assets/img/logo.svg',
             navbar: {
                 title: 'Project Novato',
                 hideOnScroll: true,
                 logo: {
                     alt: 'My Site Logo',
-                    src: 'img/logo.svg',
+                    src: '/assets/img/logo.svg',
                 },
                 items: [
                     {
