@@ -15,7 +15,7 @@ export default {
     title: 'Project Novato',
     tagline: 'Hadrian\'s SNC2D culminating assignment.',
     favicon: '/assets/img/logo.svg',
-    url: 'https://novato.hadrianlau.com',
+    url: 'https://novato.hadrian.cc',
     baseUrl: '/',
     organizationName: 'udontur',
     projectName: 'novato',
@@ -99,7 +99,7 @@ export default {
                         position: 'left',
                     },
                     {
-                        href: 'https://hadrianlau.com',
+                        href: 'https://hadrian.cc',
                         label: 'Hadrian',
                         position: 'right',
                     },
@@ -169,7 +169,7 @@ export default {
                         items: [
                             {
                                 label: 'Website',
-                                href: 'https://hadrianlau.com',
+                                href: 'https://hadrian.cc',
                             },
                             {
                                 label: 'GitHub',

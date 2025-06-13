@@ -1,5 +1,5 @@
 # Novato
-For SNC2D Culminating Final Project 
+For DSC International School's SNC2Db Culminating Project in Feburary 2025
 
 Website built using [Docusaurus](https://docusaurus.io/), hosted on [Vercel](https://vercel.com/) and [GitHub](https://github.com/).
 
